@@ -1,0 +1,9 @@
+informatica powercentre repository details -
+Repository-> PowerCentre_Repository_Service
+security domain->Native
+username- powercenter_repo_user
+password->powercenter_repo_user
+domain name- eagle-informatica
+gateway host- eagle-informatica-linux-server.novalocal
+gateway port-6005
+
